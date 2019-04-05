@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="nazwa" type="id" />
+    <item name="opis" type="id" />
+    <item name="obraz" type="id" />
+    <item name="row_image" type="id" />
+    <item name="row_name" type="id" />
+</resources>
